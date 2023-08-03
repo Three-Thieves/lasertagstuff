@@ -1,0 +1,17 @@
+{
+  "Title": "Laser Tag Vest",
+  "Subtitle": "",
+  "Category": "Tops",
+  "SubCategory": "",
+  "Parent": null,
+  "Model": "models/3t/qzar/vest/boomeroutfit_chest.vmdl",
+  "SkinMaterial": null,
+  "EyesMaterial": null,
+  "MaterialGroup": "",
+  "SlotsUnder": "Chest, LeftArm, RightArm",
+  "SlotsOver": "Chest, LeftArm, RightArm",
+  "HideBody": 0,
+  "Icon": {
+    "Path": "/clothing_icons/terrorcovest.png"
+  }
+}
